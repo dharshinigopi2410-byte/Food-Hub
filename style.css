@@ -1,0 +1,84 @@
+body{
+    margin:0px;
+    padding: 20px;
+    background-color:white ;
+    text-align: center;
+    font-family: "Young Serif", serif;
+
+
+}
+.Header{
+   color:white;
+   background-color: black; 
+   text-align: center;
+   padding: 20px;
+   margin: 10px;
+   width: 100 px;
+   height: 150 px;
+}
+.Header h1{
+    margin-bottom:5px;
+}
+.Header p{
+    margin-top: 0px;
+.food-container{
+    margin: 20px;
+
+}
+}
+.food-one,.food-two,.food-three{
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    
+    
+}
+.food-one__button,.food-two__button,.food-three__button{
+color: white;
+background-color: black;
+border: none;
+padding: 5px;
+}
+.food-one__picture,.food-two__picture,.food-three__picture{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+.contact{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.contact h2{
+    margin-bottom:1px;
+}
+.contact table{
+    margin:auto;
+    padding-top:0px;
+    margin-top: 3px;
+    margin-bottom:5px;
+}
+.contact td{
+    padding: 3px;
+
+}
+.contact input{
+    padding:10px;
+}
+.contact-four__click button{
+    width: 350px;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+}
+.contact form{
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+
