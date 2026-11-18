@@ -26,7 +26,7 @@ body{
 
 }
 }
-.food-one,.food-two,.food-three{
+.food-one,.food-two,.food-three,.food-four{
     display: inline-block;
     padding: 5px;
     border: 2px solid black;
@@ -35,13 +35,13 @@ body{
     
     
 }
-.food-one__button,.food-two__button,.food-three__button{
+.food-one__button,.food-two__button,.food-three__button,.food-four__button{
 color: white;
 background-color: black;
 border: none;
 padding: 5px;
 }
-.food-one__picture,.food-two__picture,.food-three__picture{
+.food-one__picture,.food-two__picture,.food-three__picture,.food-four__picture{
     width: 250px;
     height: 300px;
     object-fit: cover;
